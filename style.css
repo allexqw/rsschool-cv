@@ -149,3 +149,60 @@ h2{
 .fab{
     font-size: 30px;
 }
+
+
+@media (max-width:1020px){
+    .experience{
+        width: 96%;
+    }
+    
+    .english_level{
+        width: 96%;
+    }
+    
+    .education{
+        width: 96%;
+    }
+    
+    .skills{
+        width:96%;
+    }
+
+    .summary{
+
+        width: 96%;
+    }
+}
+
+@media (max-width:768px){
+    .experience{
+        width: 96%;
+    }
+    
+    .english_level{
+        width: 96%;
+    }
+    
+    .education{
+        width: 96%;
+    }
+    
+    .skills{
+        width:96%;
+    }
+    .contacts{
+        text-align: center;
+        justify-content: center;
+    }
+    .summary{
+
+        width: 96%;
+    }
+
+    .header{
+       
+        display: block;
+        
+    
+    }
+}

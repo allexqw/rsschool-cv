@@ -121,3 +121,31 @@ h2{
 
     
 }
+
+.footer{
+    margin-top: 25px;
+    background: #000;
+    color:#fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 5px #aaa;
+}
+.footer a{
+    color:  #fff;
+}
+
+.contacts{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contacts__items{
+    padding: 10px 25px;
+}
+
+.fas {
+    font-size: 30px;
+}
+.fab{
+    font-size: 30px;
+}
